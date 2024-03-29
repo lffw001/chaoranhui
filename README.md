@@ -1,3 +1,5 @@
 联通超燃汇小程序签到抽奖以及库存监控，仅作学习交流。
-关于超燃汇脚本，不要尝试多次运行去达到所谓的多次签到效果，这个只能并发实现，脚本每一步都是有延迟的，你运行再快也是只能签到一次，并发版本暂时不会发布。在多次运行导致版本检测炸了我可不管了!!!
+
 关于联通阅读，本是二改的，只负责抢任务不负责刷阅读，请配合leaf佬的联通本使用。
+拉库命令
+ql repo https://github.com/Aellyt/chaoranhui.git "ltyd.py|cyh" "" "aes_encrypt|encrypt_symmetric|ql_api|rsa_encrypt|tool|__init__|pyarmor_runtime"
